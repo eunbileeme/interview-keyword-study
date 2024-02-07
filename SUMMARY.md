@@ -1,93 +1,74 @@
-# 키워드로 학습하는 CS 스터디
+# Table of contents
 
-## 1주차
-### Network
-#### 최지율
-#### 김의진
-
-### Spring
-#### 고청천
-#### 이은비
-
-## 2주차
-### Database
-#### 최지율
-#### 고청천
-
-### Operating system
-#### 김의진
-#### 이은비
-
-## 3주차
-### Network
-#### 최지율
-#### 이은비
-
-### Java
-#### 고청천
-#### 김의진
-
-## 4주차
-### Operating system
-#### 최지율
-#### 이은비
-
-### Database
-#### 고청천
-#### 김의진
-
-## 5주차
-### Spring
-#### 최지율
-#### 이은비
-
-### Network
-#### 고청천
-#### 김의진
-
-## 6주차
-### Database
-#### 최지율
-#### 이은비
-
-### Java
-#### 고청천
-#### 김의진
-
-## 7주차
-### Network
-#### 최지율
-#### 이은비
-
-### Operating system
-#### 고청천
-#### 김의진
-
-## 8주차
-### Database
-#### 최지율
-#### 김의진
-
-### Java
-#### 이은비
-#### 고청천
-
-## 9주차
-### Operating system
-#### 최지율
-#### 이은비
-
-### Network
-#### 고청천
-#### 김의진
-
-## 10주차
-### Operating system
-#### 최지율
-
-### Network
-#### 고청천
-#### 김의진
-
-### Database
-#### 이은비
+* [📚 키워드로 학습하는 CS 스터디](README.md)
+  * [1주차](cs/1/README.md)
+    * [📡 Network](cs/1/network/README.md)
+      * [최지율](cs/1/network/undefined.md)
+      * [김의진](cs/1/network/undefined-1.md)
+    * [🍃 Spring](cs/1/spring/README.md)
+      * [고청천](cs/1/spring/undefined.md)
+      * [이은비](cs/1/spring/undefined-1.md)
+  * [2주차](cs/2/README.md)
+    * [Database](cs/2/database/README.md)
+      * [최지율](cs/2/database/undefined.md)
+      * [고청천](cs/2/database/undefined-1.md)
+    * [💻 Operating system](cs/2/operating-system/README.md)
+      * [김의진](cs/2/operating-system/undefined.md)
+      * [이은비](cs/2/operating-system/undefined-1.md)
+  * [3주차](cs/3/README.md)
+    * [Network](cs/3/network/README.md)
+      * [최지율](cs/3/network/undefined.md)
+      * [이은비](cs/3/network/undefined-1.md)
+    * [Java](cs/3/java/README.md)
+      * [고청천](cs/3/java/undefined.md)
+      * [김의진](cs/3/java/undefined-1.md)
+  * [4주차](cs/4/README.md)
+    * [Operating system](cs/4/operating-system/README.md)
+      * [최지율](cs/4/operating-system/undefined.md)
+      * [이은비](cs/4/operating-system/undefined-1.md)
+    * [Database](cs/4/database/README.md)
+      * [고청천](cs/4/database/undefined.md)
+      * [김의진](cs/4/database/undefined-1.md)
+  * [5주차](cs/5/README.md)
+    * [Spring](cs/5/spring/README.md)
+      * [최지율](cs/5/spring/undefined.md)
+      * [이은비](cs/5/spring/undefined-1.md)
+    * [Network](cs/5/network/README.md)
+      * [고청천](cs/5/network/undefined.md)
+      * [김의진](cs/5/network/undefined-1.md)
+  * [6주차](cs/6/README.md)
+    * [Database](cs/6/database/README.md)
+      * [최지율](cs/6/database/undefined.md)
+      * [이은비](cs/6/database/undefined-1.md)
+    * [Java](cs/6/java/README.md)
+      * [고청천](cs/6/java/undefined.md)
+      * [김의진](cs/6/java/undefined-1.md)
+  * [7주차](cs/7/README.md)
+    * [Network](cs/7/network/README.md)
+      * [최지율](cs/7/network/undefined.md)
+      * [이은비](cs/7/network/undefined-1.md)
+    * [Operating system](cs/7/operating-system/README.md)
+      * [고청천](cs/7/operating-system/undefined.md)
+      * [김의진](cs/7/operating-system/undefined-1.md)
+  * [8주차](cs/8/README.md)
+    * [Database](cs/8/database/README.md)
+      * [최지율](cs/8/database/undefined.md)
+      * [김의진](cs/8/database/undefined-1.md)
+    * [Java](cs/8/java/README.md)
+      * [이은비](cs/8/java/undefined.md)
+      * [고청천](cs/8/java/undefined-1.md)
+  * [9주차](cs/9/README.md)
+    * [Operating system](cs/9/operating-system/README.md)
+      * [최지율](cs/9/operating-system/undefined.md)
+      * [이은비](cs/9/operating-system/undefined-1.md)
+    * [Network](cs/9/network/README.md)
+      * [고청천](cs/9/network/undefined.md)
+      * [김의진](cs/9/network/undefined-1.md)
+  * [10주차](cs/10/README.md)
+    * [Operating system](cs/10/operating-system/README.md)
+      * [최지율](cs/10/operating-system/undefined.md)
+    * [Network](cs/10/network/README.md)
+      * [고청천](cs/10/network/undefined.md)
+      * [김의진](cs/10/network/undefined-1.md)
+    * [Database](cs/10/database/README.md)
+      * [이은비](cs/10/database/undefined.md)
