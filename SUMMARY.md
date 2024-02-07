@@ -9,7 +9,7 @@
       * [고청천](cs/1/spring/undefined.md)
       * [이은비](cs/1/spring/undefined-1.md)
   * [2주차](cs/2/README.md)
-    * [Database](cs/2/database/README.md)
+    * [💾 Database](cs/2/database/README.md)
       * [최지율](cs/2/database/undefined.md)
       * [고청천](cs/2/database/undefined-1.md)
     * [💻 Operating system](cs/2/operating-system/README.md)

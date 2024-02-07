@@ -1,6 +1,6 @@
 # 이은비
 
-## :leaves: Spring
+## :leaves: 스프링(Spring)
 
 ### 내가 스프링 프레임워크를 선호하는 이유
 

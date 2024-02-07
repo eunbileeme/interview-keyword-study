@@ -1,8 +1,8 @@
 # 이은비
 
-## :desktop: 운영체제란 무엇인가요?
+## :computer: 운영체제란 무엇일까?
 
-### 운영체제의 역할이 무엇이 있을까요?
+### :arrow\_forward: 운영체제의 역할이 무엇이 있을까?
 
 운영체제의 역할은 다음과 같이 구분할 수 있습니다.
 
@@ -28,7 +28,7 @@
 
 
 
-### 커널이란?
+## :computer: 커널(Kernel)
 
 <figure><img src="../../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
@@ -51,9 +51,9 @@
 
 
 
-## 컴퓨터 구조
+## :computer: 컴퓨터 구조
 
-### CPU의 구조
+### :arrow\_forward: CPU의 구조
 
 <figure><img src="../../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
@@ -73,7 +73,7 @@
 
 
 
-### 인터럽트란?
+## :computer: 인터럽트(Interrupt)란?
 
 > 프로그램 실행 도중 예기치 않은 상황이 발생했을 경우, 현재 실행 중인 작업을 즉시 중단하여 CPU에게 알리는 것
 
@@ -93,7 +93,7 @@
 
 
 
-### Cache의 지역성
+## :computer: 캐시의 지역성(Cache Locality)
 
 Cache의 지역성은 다음과 같이 2가지로 나눌 수 있습니다.
 
@@ -105,9 +105,7 @@ Cache의 지역성은 다음과 같이 2가지로 나눌 수 있습니다.
 
 > 기억 장치 내에 서로 인접하여 저장되어 있는 데이터들이 연속적으로 액세스 될 가능성이 높아진다는 특성
 
-
-
-#### CPU가 Cache를 삭제하는 알고리즘
+### :arrow\_forward: CPU가 Cache를 삭제하는 알고리즘
 
 * LRU(Least Recently Used)
 
@@ -117,9 +115,9 @@ Cache의 지역성은 다음과 같이 2가지로 나눌 수 있습니다.
 
 
 
-## 커널 모드
+## :computer:커널 모드
 
-### 유저 모드와 커널 모드
+### :arrow\_forward: 유저 모드와 커널 모드
 
 #### 커널 모드의 보안상 이점
 
@@ -148,9 +146,7 @@ Cache의 지역성은 다음과 같이 2가지로 나눌 수 있습니다.
 
 따라서 시스템에 중요한 영향을 미치는 연산을 커널 모드에서만 실행하도록 함으로써 하드웨어의 보안을 유지할 수 있다는 이점이 있습니다.
 
-
-
-### 시스템 콜
+### :arrow\_forward: 시스템 콜(System call)
 
 커널모드는 운영체제 내부에서 실제로 하드웨어를 작업하는 작업을 수행하기 때문에, 기본적으로 커널 모드에서 수행하게 됩니다.
 
@@ -163,7 +159,7 @@ Cache의 지역성은 다음과 같이 2가지로 나눌 수 있습니다.
 
 
 
-### DMA(Direct Memory Access)
+## :computer: DMA(Direct Memory Access)
 
 <figure><img src="../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
@@ -175,7 +171,7 @@ Cache의 지역성은 다음과 같이 2가지로 나눌 수 있습니다.
 
 
 
-## 컴파일러와 인터프리터
+## :computer: 컴파일러(Compiler)와 인터프리터(Interpreter)
 
 컴파일러와 인터프리터는 다음과 같이 분류할 수 있습니다.
 
